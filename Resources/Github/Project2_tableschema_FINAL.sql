@@ -41,7 +41,7 @@ CREATE TABLE team_appearances(
   draw VARCHAR
 );
 
---select * from team_appearances
+-- select * from team_appearances
 
 -- DROP TABLE team_appearances
 
