@@ -6,7 +6,7 @@ Team Members: Tuan Minh Bui, Shannon Chen
 
 
 ### Purpose:
-Amidst the excitment of this year's world cup, we decided to build an SQL database to capture player performance data in the form of goals scored and to explore whether match events such at the tournament stage and going into extra time has any impact on said performance. For example, we hope that this database can help to answer questions like:
+Amidst the excitement of this year's world cup, we decided to build an SQL database to capture player performance data in the form of goals scored and to explore whether match events such as the tournament stage and going into extra time has any impact on said performance. For example, we hope that this database can help to answer questions like:
 
 a) Does participation as a starter or substitute at previous tournaments influence player and team performance in the most recent tournament?
 
