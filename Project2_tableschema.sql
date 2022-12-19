@@ -18,7 +18,7 @@ CREATE TABLE tournaments(
   PRIMARY KEY (tournament_id)
 );
 
---select * from tournaments
+-- select * from tournaments
 
 
 --Create team_appearances table
@@ -42,7 +42,7 @@ CREATE TABLE team_appearances(
   FOREIGN KEY (tournament_id) REFERENCES tournaments (tournament_id)
 );
 
---select * from team_appearances
+-- select * from team_appearances
 
 
 --Create matches table DONE
@@ -73,7 +73,7 @@ CREATE TABLE matches(
   FOREIGN KEY (away_team_id) REFERENCES team_appearances (team_id)
 );
 
---select * from matches
+-- select * from matches
 
 
 --Create squads table -- NEEDS A REVIEW --
@@ -134,7 +134,7 @@ CREATE TABLE goals(
   FOREIGN KEY (player_id) REFERENCES player_appearances (player_id)
 );
 
---select * from goals
+-- select * from goals
 
 
 --Create penalty_kicks table DONE
